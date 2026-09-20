@@ -1,0 +1,13 @@
+
+ORDER CONFIRMATION
+
+Order ID: ORD-1001
+Customer Name: Pre
+Purchase Date: 2026-08-26
+
+ITEMS PURCHASED
+
+1. Alpine Winter Jacket | Category: Clothing | Price: $120.00
+2. Echo Wireless Earbuds | Category: Electronics | Price: $89.00
+
+Shipping Address: Delhi, India

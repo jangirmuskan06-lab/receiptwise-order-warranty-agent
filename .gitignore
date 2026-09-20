@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+chroma_db/
+data/orders.db
+tools-folder-backup/
+ingestion-folder-backup/
+app-folder-backup/
