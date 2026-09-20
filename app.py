@@ -326,7 +326,7 @@ st.divider()
 st.header("Ask about this receipt")
 
 for message in st.session_state["messages"]:
-st.session_state["pending_question"] = None
+
     with st.chat_message(message["role"]):
         st.write(message["content"])
 
@@ -336,7 +336,7 @@ typed_question = st.chat_input(
 
 question = st.session_state.get("pending_question") or typed_question
 st.session_state["pending_question"] = None
-)
+
 
 if question:
     st.session_state["messages"].append({
